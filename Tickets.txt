@@ -1,0 +1,9 @@
+
+Name : Jack
+Your ticket is $15
+
+Name : Jill
+Your ticket is $10
+
+Your total is $25
+Enjoy the movie at iTax
